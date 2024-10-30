@@ -1,0 +1,106 @@
+ 
+ #main-section-parent{
+  display: flex;
+  gap: 10px;
+ }
+    
+  #secound-section-parent{
+    border: 1px solid red;
+    padding: 10px;
+    height: 300px;
+    width: 300px;
+    border-radius: 6px;
+    margin: 20px;
+
+  }
+ /* footer section design  */
+ #foter-section{
+  border: none;
+  background-color: black;
+  color: aliceblue;
+  text-align: center;
+  height: 100px;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 100px;
+  
+ }
+ #section-parent-2nd-page{
+  display: flex;
+  justify-content: space-around;
+  
+ }
+ .linkber-class{
+  text-decoration: none;
+  color: black;
+ }
+ .linkber-class:hover{
+  color: rgb(250, 56, 56);
+ }
+ .image-design{
+  height: 250px;
+  width: 300px;
+  border-radius: 160px;
+  margin-top: 50px;
+ }
+ .image-design:hover{
+  height: 250px;
+  width: 300px;
+  border-radius: 160px;
+  margin-top: 50px;
+  rotate: 360deg;
+  box-shadow: 2px 4px 6px 4px rgb(235, 231, 231);
+  transform: rotate(5deg);
+  transition: 2s;
+
+ }
+ #section-design{
+  display: flex;
+  gap: 40px;
+  padding: 30px;
+ }
+ #Nav-item{
+  text-align: center;
+  font-family: sans-serif;
+  align-items: center;
+  padding-top: 40PX;
+ }
+ #button-design{
+  
+  border:none;
+  background-color: orange;
+  padding: 8px;
+  border-radius: 5px;
+  font-weight: bold; color: aliceblue;
+ }
+ #button-design:hover{
+  border:none;
+  background-color: rgb(246, 23, 23);
+  padding: 12px;
+  border-radius: 6px;
+  font-weight: bold; color: aliceblue;
+  box-shadow: 2px 4px 3px 2px rgb(244, 206, 206);
+  transition: 0.5s;
+ }
+
+ table tr td{
+   border: 1px solid orangered;
+   height: 40px;
+  width: 100px;
+ }
+ table tr th{
+  border: 1px solid orangered;
+  height: 40px;
+  width: 100px;
+ 
+ }
+
+
+ #last-section{
+  display: flex;
+  gap: 30px;
+  padding: 50px;
+ }
+ #last-nav-ber{
+  
+ }
